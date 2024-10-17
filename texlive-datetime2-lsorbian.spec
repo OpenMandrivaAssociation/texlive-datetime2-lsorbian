@@ -3,7 +3,7 @@ Version:	47749
 Release:	2
 Summary:	Lower Sorbian language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-lsorbian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-lsorbian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-lsorbian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-lsorbian.doc.r%{version}.tar.xz
